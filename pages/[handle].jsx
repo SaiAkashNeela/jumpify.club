@@ -203,7 +203,7 @@ const ProfilePage = () => {
                 target="_blank"
                 href="https://librelinks.vercel.app/"
               >
-                Librelinks
+                SAN
               </Link>
             </p>
           </footer>
